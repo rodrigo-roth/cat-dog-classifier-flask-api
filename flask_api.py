@@ -23,7 +23,7 @@ def predict():
     """
     Retorna a predição de uma imagem codificada em base64 enviada via API;
     
-    A imagem é enviada codificada em base64 através o método POST junto com o nome do usuário, 
+    A imagem é enviada codificada em base64 através do método POST junto com o nome do usuário, 
     é então armazenada no banco de dacos "classifier.db" a predição da imagem, 
     o nome do usuário e o timestamp em que foi enviada, e no fim retorna a predição da imagem.       
     """
