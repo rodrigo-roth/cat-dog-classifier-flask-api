@@ -6,7 +6,7 @@ A database was created to store the user, prediction and timestamp getted from t
 
 ## How to use it
 
-* The image classifier model was build using tensorflow and keras;
+* The image classifier model was built using tensorflow and keras;
 
 * The data was preprocess in the Training Set and the Test Set, to prepare the images that would be used in the cnn model.
 
