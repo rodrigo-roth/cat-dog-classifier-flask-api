@@ -42,6 +42,8 @@ The libraries used in the api can be seen in the requirements.txt.
 
 * Make a [POST] request on /predict64 with an base64 encoded image to get a prediction.
 
+* The user, prediction and timestamp will be added in the database created.
+
 ## References
 
 Udemy course Deep Learning A-Z™: Hands-On Artificial Neural Networks by Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team
