@@ -31,7 +31,7 @@ The libraries used in the api can be seen in the requirements.txt.
 
 * Execute api_prediction
 
-* Make a [POST] request on /predict using:
+* Make a [POST] request on /predict64 using:
 
 {
 
