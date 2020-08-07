@@ -1,6 +1,6 @@
 # Cat Dog Classifier
 
-This is a image classifier project using Convolutional Neural Networks and Deep Learning. It classifies images of dogs and cats. The accuracy rate acchieved was 0.9045.
+This is a image classifier project using Convolutional Neural Networks and Deep Learning. It classifies images of dogs and cats. The accuracy rate acchieved was 0.8597.
 In addition, it was build an API that can receive a image transformed in array to be classified. 
 
 ## How to use it
