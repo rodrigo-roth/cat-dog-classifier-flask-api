@@ -33,6 +33,7 @@ The libraries used in the api can be seen in the requirements.txt.
 * Make a [POST] request on /predict using:
 
 {
+
 	"user": " "
 
 	"data": "imagebase64"
