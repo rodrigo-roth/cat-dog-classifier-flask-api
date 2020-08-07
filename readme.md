@@ -35,7 +35,7 @@ The libraries used in the api can be seen in the requirements.txt.
 
 {
 
-	"user": " "
+	"user": " ",
 
 	"data": "imagebase64"
 }
