@@ -2,6 +2,7 @@
 
 This is a image classifier project using Convolutional Neural Networks and Deep Learning. It classifies images of dogs and cats. The accuracy rate acchieved was 0.8597.
 In addition, it was build an API that can receive a image encoded in base64 to be classified. 
+A database was created to store the user, prediction and timestamp getted from the API.
 
 ## How to use it
 
