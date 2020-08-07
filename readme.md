@@ -8,7 +8,7 @@ A database was created to store the user, prediction and timestamp getted from t
 
 * The image classifier model was built using tensorflow and keras;
 
-* The data was preprocess in the Training Set and the Test Set, to prepare the images that would be used in the cnn model.
+* The data was preprocessed in the Training Set and the Test Set, to prepare the images that would be used in the cnn model.
 
 * The architecture of the CNN was build by adding the layers, pooling, adding the second cnn layer, flattening the results of all the cnn's and poolings into one dimensional vector, which will become the input of a fully conected neural network and finally conect all this to the final output layer.
 
